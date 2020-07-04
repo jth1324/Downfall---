@@ -10,3 +10,4 @@
 
 직접 수정하는 것도 좋지만, 파일을 다운 받아서 Sublime text나 visual studio code 같은 프로그램을 쓰는 것을 추천합니다.
 
+감사합니다.
