@@ -9,24 +9,24 @@
       "~깨어나라...~",
       "~침입자를~ NL ~죽여라...~",
       "~침입자들에게~ ~도달해라...~ NL ~더 많은~ ~축복을~ ~얻기 위해...~",
-      "~적어도~ ~말이야...~ ~confront~ NL ~the~ ~first~ ~intruder...~",
-      "~I~ ~brought~ ~you~ ~back...~",
-      "~Choose...~",
-      "~Granted...~",
-      "~Sacrifice...~ NL ~...for~ ~power....~",
-      "~PROVE~ ~your~ NL ~worth...~",
-      "Rewards",
-      "~Continue~ ~for~ ~me...~",
-      "~Descend...~ ~..into madness...~",
-      "~Impressive...~ ~more...~",
-      "Cursed!",
-      "Scatterbrain!",
-      "Transformation!"
+      "~적어도~ ~말이야...~ NL ~첫번째~ ~침입자는~ ~만나고 오너라...~",
+      "~내가~ ~널~ ~다시~ ~데려왔지...~",
+      "~선택해라...~",
+      "~승인하지...~",
+      "~희생...~ NL ~...많은~ ~보상....~",
+      "~네~ ~가치를~ NL ~증명해라...~",
+      "보상",
+      "~날~ ~위해~ ~계속하라...~",
+      "~광기에...~ ~..빠뜨려라...~",
+      "~아주...~ ~인상적이군...~",
+      "저주!",
+      "주의 산만!",
+      "변화!"
     ],
     "OPTIONS": [
       "[계속]",
       "[대화하다]",
-      "[스킵하다]",
+      "[넘기다]",
       "[떠나다]",
       "덱에 추가할 10 개의 카드를 선택해라.",
       "[ #g다음 #g두 #g전투동안 #g적이 #g공포로 #g도망갈 #g것이다 ]"
@@ -34,11 +34,11 @@
   },
   "downfall:Unlock": {
     "TEXT": [
-      "This character is unlocked by completing a run with the Slime Boss.",
-      "This character is unlocked by completing a run with the 2nd Villain character.",
-      "This character is unlocked by completing a run with the Guardian.",
-      "This character is unlocked by completing a run with the 3rd Villain character.",
-      "This character is unlocked by completing a run with the Hexaghost."
+      "대왕 슬라임으로 등반에 성공한다면 이 캐릭터가 해제됩니다.",
+      "두번쨰 악당 캐릭터로 등반에 성공한다면 이 캐릭터가 해제됩니다.",
+      "수호자로 등반에 성공한다면 이 캐릭터가 해제됩니다.",
+      "세번쨰 악당 캐릭터로 등반에 성공한다면 이 캐릭터가 해제됩니다.",
+      "육각령으로 등반에 성공한다면 이 캐릭터가 해제됩니다."
 
     ]
   },
@@ -48,91 +48,91 @@
     "~희생...~"
   ],
   "TEXT": [
-    "~You~ ~grow...~ ~stronger...~",
-    "~We~ ~grow...~ ~as~ ~you~ ~grow...~",
-    "~Slay...~ ~and~ ~be~ ~rewarded...~",
-    "~More...~ ~souls...~",
-    "~Feed~ ~us......~ NL ~FEED~ ~US......~",
-    "~Fuel...~ ~the~ ~corruption...~",
-    "~Blessings...~ ~are~ ~earned...~",
-    "~No...~ ~mercy...~",
-    "~Ever...~ ~stronger...~",
-    "~Our~ ~power...~ ~is~ ~yours...~",
-    "~Kill~ ~all...~ ~in~ ~your~ ~way...~",
-    "~Fight...~ ~fell...~ ~and~ ~feed...~",
-    "~We~ ~are...~ ~legion...~",
-    "~Go~ ~forth...~ ~and~ ~harvest...~",
-    "~Delicious...~ ~souls...~",
-    "~Reap...~ ~the~ ~fallen...~"
+    "~넌~ ~더...~ ~강해졌다...~",
+    "~네가~ ~성장하는만큼...~ ~우리도~ ~강해진다...~",
+    "~죽이고...~ ~보상을~ ~받아라...~",
+    "~더 많은...~ ~영혼...~",
+    "~우리를~ ~먹어라......~ NL ~우릴~ ~먹어......~",
+    "~부패의...~ ~연료...~",
+    "~축복을...~ ~얻어라...~",
+    "~자비는...~ ~없어...~",
+    "~더...~ ~강하다...~",
+    "~우리의~ ~힘은...~ ~네~ ~것이다...~",
+    "~네~ ~길을...~ ~막는~ ~놈들을~ ~죽여라...~",
+    "~싸우고...~ ~떨어져라...~ ~그리고~ ~먹어라...~",
+    "~우리는~ ~군단이다...~",
+    "~앞으로~ ~나아가라...~ ~그리고~ ~수확해라...~",
+    "~맛있는...~ ~영혼...~",
+    "~추락한~ ~자를...~ ~거두어라...~"
   ],
   "OPTIONS": [
-    "~Neow...~ ~cannot~ ~win...~",
-    "~Fear...~ ~nothing...~",
+    "~니오우는...~ ~이길 수~ ~없다...~",
+    "~공포는...~ ~아무것도 아니다...~",
     "..... NL .... NL .........",
-    "~Finish...~ ~them...~",
-    "~Good...~ ~luck...~",
-    "~Don't...~ ~die...~",
-    "~We will...~ ~be~ ~waiting...~",
-    "~Destroy...~ ~them~ ~all...~"
+    "~놈들을...~ ~끝장내라...~",
+    "~행운을...~ ~빌지...~",
+    "~쓸데없이...~ ~죽지마라...~",
+    "~우린...~ ~기다릴~ ~것이다...~",
+    "~모든...~ ~놈들을~ ~파괴해라...~"
   ]
 },
   "downfall:HeartProceed": {
     "TEXT": [
-      "~Intruders...~ NL ~...in~ ",
-      "~You~ ~are~ ~needed...~ NL ~...in~ ",
-      "~They~ ~have~ ~reached...~ NL ",
-      "~Return...~ NL ~Protect~ ",
-      "~Slay~ ~them~ ~all...~ NL ~...in~ "
+      "~침입자가...~ NL ~...들어왔군~ ",
+      "~넌~ ~필요하다...~ NL ~...들어가라~ ",
+      "~그들이~ ~도착했다...~ NL ",
+      "~돌아와라...~ NL ~지켜라~ ",
+      "~놈들을~ ~모두~ ~죽여라...~ NL ~...들어가라~ "
     ],
     "OPTIONS": [
-      "~the~ ~City...~",
-      "~the~ ~Beyond...~"
+      "~도시...~",
+      "~저 편...~"
     ]
   },
   "downfall:NeowEnding": {
     "TEXT": [
-      "You... have... slain... everyone...",
-      "...the cycle... has died.....",
-      "..and so...... shall... NL ....I......"
+      "넌... 모두를... 죽였다... ",
+      "...순환은... 이제 사라졌다.....",
+      "..그리고...... NL  나......또한......"
     ],
     "OPTIONS": [
-      "~I~ ~brought...~ NL ~HIM...~ ~back...~"
+      "~내가~ ~다시...~ NL ~그를...~ ~데려왔다...~"
     ]
   },
   "downfall:HeartMerchantScreen": {
     "NAMES": [
-      "~Greetings~ NL ~minion...~",
-      "~Bring~ ~more~ ~souls...~",
-      "~I~ ~need~ @more...@",
-      "~You~ ~are~ ~not~ NL @worthy...@",
-      "~No.~",
-      "~Harvest~ ~more~ NL ~for~ ~that...~",
-      "~Insufficient~ ~sacrifice...~",
-      "~Yes...~",
-      "~More...~ @More...!@",
-      "~Grow~ ~strong...~",
-      "~I~ ~am~ ~renewed...~",
-      "~Go~ ~forth...~",
-      "Leave",
-      "Select a card to remove from your deck."
+      "~반갑군~ NL ~졸개야...~",
+      "~더~ ~많은~ ~영혼...~",
+      "~난~ ~더~ @필요해...@",
+      "~넌~ ~가치가~ NL @없다...@",
+      "~안돼.~",
+      "~더 많이~ ~수확해라~ NL ~그것을~ ~위해...~",
+      "~희생이~ ~부족하다...~",
+      "~그래...~",
+      "~더 많이...~ @더 많이...!@",
+      "~강하게~ ~성장해라...~",
+      "~난~ ~새로워~ ~졌다...~",
+      "~앞으로~ ~나아가라...~",
+      "떠나라",
+      "덱에서 제거할 카드를 선택해라."
     ],
     "TEXT": [
-      "~You~ ~grow...~ ~stronger...~",
-      "~We~ ~grow...~ ~as~ ~you~ ~grow...~",
-      "~Slay...~ ~and~ ~be~ ~rewarded...~",
-      "~More...~ ~souls...~",
-      "~Feed~ ~us......~ NL ~FEED~ ~US......~",
-      "~Fuel...~ ~the~ ~corruption...~",
-      "~Blessings...~ ~are~ ~earned...~",
-      "~No...~ ~mercy...~",
-      "~Ever...~ ~stronger...~",
-      "~Our~ ~power...~ ~is~ ~yours...~",
-      "~Kill~ ~all...~ ~in~ ~your~ ~way...~",
-      "~Fight...~ ~fell...~ ~and~ ~feed...~",
-      "~We~ ~are...~ ~legion...~",
-      "~Go~ ~forth...~ ~and~ ~harvest...~",
-      "~Delicious...~ ~souls...~",
-      "~Reap...~ ~the~ ~fallen...~"
+      "~넌~ ~더...~ ~강해졌다...~",
+      "~네가~ ~성장하는만큼...~ ~우리도~ ~강해진다...~",
+      "~죽이고...~ ~보상을~ ~받아라...~",
+      "~더 많은...~ ~영혼...~",
+      "~우리를~ ~먹어라......~ NL ~우릴~ ~먹어......~",
+      "~부패의...~ ~연료...~",
+      "~축복을...~ ~얻어라...~",
+      "~자비는...~ ~없어...~",
+      "~더...~ ~강하다...~",
+      "~우리의~ ~힘은...~ ~네~ ~것이다...~",
+      "~네~ ~길을...~ ~막는~ ~놈들을~ ~죽여라...~",
+      "~싸우고...~ ~떨어져라...~ ~그리고~ ~먹어라...~",
+      "~우리는~ ~군단이다...~",
+      "~앞으로~ ~나아가라...~ ~그리고~ ~수확해라...~",
+      "~맛있는...~ ~영혼...~",
+      "~추락한~ ~자를...~ ~거두어라...~"
     ]
   },
   "downfall:OctoChoiceCards": {
@@ -162,27 +162,27 @@
       "3 HP 잃습니다. NL 40 영혼을 얻습니다.",
       "1 HP 잃습니다. NL 무작위 회귀 카드를 손에 얺습니다.",
       "5 HP 잃습니다. NL 무작위 포션을 얻습니다.",
-      "Obtain Guardian expansioncontent:Boss cards.",
-      "Obtain Hexaghost expansioncontent:Boss cards.",
-      "Obtain Slime Boss expansioncontent:Boss cards.",
-      "Obtain Automaton expansioncontent:Boss cards.",
-      "Obtain Champ expansioncontent:Boss cards.",
-      "Obtain Collector expansioncontent:Boss cards.",
-      "Obtain Time Eater expansioncontent:Boss cards.",
-      "Obtain Awakened One expansioncontent:Boss cards.",
-      "Obtain Ancients expansioncontent:Boss cards.",
-      "Split into a slimeboundmod:Bronze_Slime.",
-      "Split into a slimeboundmod:Ghostflame_Slime.",
-      "Split into a slimeboundmod:Torchhead_Slime.",
-      "Split into a slimeboundmod:Cultist_Slime.",
-      "Split into a slimeboundmod:Protector_Slime.",
-      "Split into an slimeboundmod:Insulting_Slime.",
-      "Split into an slimeboundmod:Ancient_Slime.",
-      "Split into a slimeboundmod:Time_Slime.",
-      "Split into a slimeboundmod:Bruiser_Slime.",
-      "Split into a slimeboundmod:Guerilla_Slime.",
-      "Split into a slimeboundmod:Mire_Slime.",
-      "Split into a slimeboundmod:Leeching_Slime."
+      "수호자 expansioncontent:보스 카드를 얻습니다.",
+      "육각령 expansioncontent:보스 카드를 얻습니다.",
+      "대왕 슬라임 expansioncontent:보스 카드를 얻습니다.",
+      "청동자동인형 expansioncontent:보스 카드를 얻습니다.",
+      "투사 expansioncontent:보스 카드를 얻습니다.",
+      "수집가 expansioncontent:보스 카드를 얻습니다.",
+      "시간포식자 expansioncontent:보스 카드를 얻습니다.",
+      "깨어난 자 One expansioncontent:보스 카드를 얻습니다.",
+      "인공생명체 expansioncontent:보스 카드를 얻습니다.",
+      "slimeboundmod:청동_슬라임 으로 분열합니다.",
+      "slimeboundmod:유령불꽃_슬라임 으로 분열합니다..",
+      "slimeboundmod:불머리_슬라임 으로 분열합니다.",
+      "slimeboundmod:광신자_슬라임 으로 분열합니다.",
+      "slimeboundmod:경호원_슬라임 으로 분열합니다.",
+      "slimeboundmod:욕쟁이_슬라임 으로 분열합니다.",
+      "slimeboundmod:고대의_슬라임 으로 분열합니다.",
+      "slimeboundmod:시간_슬라임 으로 분열합니다.",
+      "slimeboundmod:싸움꾼_슬라임 으로 분열합니다.",
+      "slimeboundmod:특공대_슬라임 으로 분열합니다.",
+      "slimeboundmod:진흙탕_슬라임 으로 분열합니다.",
+      "slimeboundmod:거머리_슬라임 으로 분열합니다."
     ]
   },
   "downfall:lazyStorage": {
@@ -191,12 +191,12 @@
     ],
     "TEXT": [
       "연구할 보스를 선택하십시오.",
-      "Choose Advance,Retract or Do Nothing"
+      "진행, 회수, 아무것도 하지 않음을 선택합니다."
     ]
   },
   "downfall:Merchant": {
     "NAMES": [
-      "Merchant"
+      "상인"
     ],
     "TEXT": [
     ]
