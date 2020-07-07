@@ -46,8 +46,8 @@
   },
   "expansioncontent:LastStand": {
     "NAME": "최후의 저항",
-    "DESCRIPTION": "expansioncontent:보스 - 투사. NL 모든 디버프를 제거합니다. NL 힘 1 얻습니다. NL 만약 체력이 절반 이하면, 힘 2 얻습니다.",
-    "UPGRADE_DESCRIPTION": "expansioncontent:보스 - 투사. NL 모든 디버프를 제거합니다. NL 힘 1 얻습니다. NL 만약 체력이 절반 이하면, 힘 2 를 얻고 !M! 회복합니다."
+    "DESCRIPTION": "expansioncontent:보스 - 투사. NL 모든 디버프를 제거합니다. NL 힘 1 얻습니다. NL 만약 HP이 절반 이하면, 힘 2 얻습니다.",
+    "UPGRADE_DESCRIPTION": "expansioncontent:보스 - 투사. NL 모든 디버프를 제거합니다. NL 힘 1 얻습니다. NL 만약 HP이 절반 이하면, 힘 2 를 얻고 !M! 회복합니다."
   },
   "expansioncontent:Collect": {
     "NAME": "수집",
@@ -71,7 +71,7 @@
   },
   "expansioncontent:AwakenDeath": {
     "NAME": "각성",
-    "DESCRIPTION": "expansioncontent:보스 - 깨어난 자. NL 당신이 죽는 대신, 체력 !M! 회복합니다."
+    "DESCRIPTION": "expansioncontent:보스 - 깨어난 자. NL 당신이 죽는 대신, HP !M! 회복합니다."
   },
   "expansioncontent:TimeRipple": {
     "NAME": "시간 파동",
@@ -126,7 +126,7 @@
   },
   "expansioncontent:DashGenerateEvil": {
     "NAME": "내면의 악",
-    "DESCRIPTION": "피해 !D! 가합니다. NL 방어도 !B! 얻습니다. NL 무작위 무색 expansioncontent:보스 를 손으로 가져옵니다.사용할 때까지 비용이 0 입니다. NL 소멸.",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 방어도 !B! 얻습니다. NL 무작위 무색 expansioncontent:보스 를 손으로 가져옵니다. 사용할 때까지 비용이 0 입니다. NL 소멸.",
     "UPGRADE_DESCRIPTION": "피해 !D! 가합니다. NL 방어도 !B! 얻습니다. NL 강화된 무작위 무색 expansioncontent:보스 를 손으로 가져옵니다. 사용할 때까지 비용이 0 입니다. NL 소멸."
   },
   "expansioncontent:Corrupt": {
@@ -136,7 +136,7 @@
   },
   "expansioncontent:KnowingSkullWish": {
     "NAME": "소망",
-    "DESCRIPTION": "휘발성. NL 체력을 영혼, 성공, 기운나는 것에 사용합니다. NL 소멸."
+    "DESCRIPTION": "휘발성. NL HP를 영혼, 성공, 기운나는 것에 사용합니다. NL 소멸."
   },
   "expansioncontent:ShieldSmash": {
     "NAME": "갑옷 부수기",
