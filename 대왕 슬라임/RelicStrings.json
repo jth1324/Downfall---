@@ -25,11 +25,11 @@
     "NAME": "끈적이 돌",
     "FLAVOR": "당신의 기분에 따라 힘을 얻는다고 합니다.",
     "DESCRIPTIONS": [
-      "전투 시작시 #yslimeboundmod:진흙탕_슬라임을 하나 생성하고 #b1 잠재력 을 얻습니다."
+      "전투 시작시 #yslimeboundmod:진흙탕_슬라임 을 하나 생성하고 #b1 잠재력 을 얻습니다."
     ]
   },
   "Slimebound:DailySplitRelic": {
-    "NAME": "Slime the Spire",
+    "NAME": "첨탑의 슬라임",
     "FLAVOR": "ALWAYS Split.  Why is this a relic? Cause I can't figure out how to add the custom mod to the list of active mods UI!",
     "DESCRIPTIONS": [
       "#bCustom #bRun #bModifier NL All enemies form into two Slime enemies at #b50% HP."
@@ -48,7 +48,7 @@
     "NAME": "욕심쟁이 수액",
     "FLAVOR": "첨탑에서 골드를 모으고 있던 친구입니다.",
     "DESCRIPTIONS": [
-      "전투 시작시 욕심쟁이 수액을 생성합니다. NL 휴식 장소에서 골드를 50 소모하고 피해량 1 증가시킬 수 있습니다."
+      "전투 시작시 욕심쟁이 수액을 생성합니다. NL 휴식 장소에서 자동으로 골드 50 소모하고 피해량 1 증가시킵니다."
     ]
   },
   "Slimebound:PreparedRelic": {
@@ -60,7 +60,7 @@
   },
   "Slimebound:AggressiveSlimeRelic": {
     "NAME": "끈적이 주민",
-    "FLAVOR": "집 까지 따라왔으니, 데리고 다녀도 되겠지?",
+    "FLAVOR": "집까지 따라왔으니, 데리고 다녀도 되겠지?",
     "DESCRIPTIONS": [
       "전투 시작시 싸움꾼 슬라임을 생성합니다."
     ]

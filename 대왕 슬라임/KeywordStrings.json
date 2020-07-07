@@ -35,10 +35,11 @@
   {
     "NAMES": [
       "명령",
+      "command",
       "commands"
     ],
     "PROPER_NAME": "명령",
-    "DESCRIPTION": "슬라임 공격을 명령합니다."
+    "DESCRIPTION": "가장 우측 부하 슬라임에게 공격을 명령합니다."
   },
   {
     "NAMES": [
