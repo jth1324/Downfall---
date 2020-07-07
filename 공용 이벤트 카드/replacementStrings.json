@@ -1,14 +1,14 @@
 [
   {
     "KEYS": [
-      "Gold"
+      "골드"
     ],
-    "VALUE": "Souls"
+    "VALUE": "영혼"
   },
   {
     "KEYS": [
-      "gold"
+      "골드"
     ],
-    "VALUE": "souls"
+    "VALUE": "영혼"
   }
 ]
