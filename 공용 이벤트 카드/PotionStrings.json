@@ -1,11 +1,1 @@
-{
-  "downfall:CursedFountainPotion": {
-    "NAME": "Cursed Fountain Liquid",
-    "DESCRIPTIONS": [
-      "Apply #b",
-      " #yWeak, #b",
-      " #yVulnerable, and reduce #yStrength by ",
-      "."
-    ]
-  }
-}
+{}
