@@ -19,8 +19,8 @@
   },
   "Slimebound:ProtectTheBoss": {
     "NAME": "두목을 지켜라",
-    "DESCRIPTION": "다음 번에 적의 공격으로 체력을 잃는 것을 막아줍니다, 대신 가장 오래된 슬라임을 slimeboundmod:흡수 합니다.",
-    "UPGRADE_DESCRIPTION": "다음 번에 적의 공격으로 체력을 잃는 것을 두번 막아줍니다, 대신 가장 오래된 슬라임을 slimeboundmod:흡수 합니다."
+    "DESCRIPTION": "다음 번에 적의 공격으로 HP을 잃는 것을 막아줍니다, 대신 최근에 생성된 슬라임을 slimeboundmod:흡수 합니다.",
+    "UPGRADE_DESCRIPTION": "다음 번에 적의 공격으로 HP을 잃는 것을 두번 막아줍니다, 대신 최근에 생성된 슬라임을 slimeboundmod:흡수 합니다."
   },
   "Slimebound:SamplingLick": {
     "NAME": "맛보며 핥기",
@@ -47,8 +47,8 @@
   },
   "Slimebound:LeadByExample": {
     "NAME": "시범을 보여주지",
-    "DESCRIPTION": "매턴 처음 적을 대상으로 카드를 사용하면 가장 오래된 슬라임도 따라 공격 합니다.",
-    "UPGRADE_DESCRIPTION": "매턴 !M! 번째까지 적을 대상으로 카드를 사용하면 가장 오래된 슬라임도 따라 공격 합니다."
+    "DESCRIPTION": "매턴 처음 적을 대상으로 카드를 사용하면 최근에 생성된 슬라임도 따라 공격 합니다.",
+    "UPGRADE_DESCRIPTION": "매턴 !M! 번째까지 적을 대상으로 카드를 사용하면 최근에 생성된 슬라임도 따라 공격 합니다."
   },
   "Slimebound:SlimeTap": {
     "NAME": "슬라임 회수",
@@ -106,10 +106,10 @@
   },
   "Slimebound:DuplicatedForm": {
     "NAME": "형상 복제",
-    "UPGRADE_DESCRIPTION": "체력 !M! 과 최대 체력 !M! 을 잃습니다. NL 매턴 [E] 를 얻습니다. NL 매턴 처음 적에게 사용하는 카드가 두 번 사용됩니다.",
-    "DESCRIPTION": "체력 !M! 과 최대 체력 !M! 을 잃습니다. NL 매턴 처음 적에게 사용하는 카드가 두 번 사용됩니다.",
+    "UPGRADE_DESCRIPTION": "HP !M! 과 최대 HP !M! 을 잃습니다. NL 매턴 [E] 를 얻습니다. NL 매턴 처음 적에게 사용하는 카드가 두 번 사용됩니다.",
+    "DESCRIPTION": "HP !M! 과 최대 HP !M! 을 잃습니다. NL 매턴 처음 적에게 사용하는 카드가 두 번 사용됩니다.",
     "EXTENDED_DESCRIPTION": [
-      "체력이.. 필요해..."
+      "HP가.. 필요해..."
     ]
   },
   "Slimebound:Recollect": {
@@ -117,7 +117,7 @@
     "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 비용이 0인 소멸된 카드 1 장을 다시 손에 얻습니다.",
     "UPGRADE_DESCRIPTION": "방어도 를 !B! 얻습니다. NL 비용이 0인 소멸된 카드 2 장을 다시 손에 얻습니다.",
     "EXTENDED_DESCRIPTION": [
-      "소멸되지.. 않았어.."
+      "소멸된 게.. 없어.."
     ]
   },
   "Slimebound:FormOfPuddle": {
@@ -166,8 +166,8 @@
   },
   "Slimebound:RejuvenatingLick": {
     "NAME": "기운나는 핥기",
-    "DESCRIPTION": "slimeboundmod:점액 !SlimeboundSlimed! 부여합니다. NL 체력 을 !M! 회복합니다. NL 소멸.",
-    "UPGRADE_DESCRIPTION": "slimeboundmod:점액 !SlimeboundSlimed! 부여합니다. NL 체력 을 !M! 회복합니다. NL 카드를 1 장 뽑습니다. NL 소멸."
+    "DESCRIPTION": "slimeboundmod:점액 !SlimeboundSlimed! 부여합니다. NL HP 을 !M! 회복합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "slimeboundmod:점액 !SlimeboundSlimed! 부여합니다. NL HP 을 !M! 회복합니다. NL 카드를 1 장 뽑습니다. NL 소멸."
   },
   "Slimebound:Gluttony": {
     "NAME": "폭식",
@@ -195,8 +195,8 @@
   },
   "Slimebound:FirmFortitude": {
     "NAME": "내 고통을 느껴라",
-    "DESCRIPTION": "내 턴에 처음으로 체력을 잃으면, 적이 체력을 대신 잃습니다.",
-	"UPGRADE_DESCRIPTION": "선천성. NL 내 턴에 처음으로 체력을 잃으면, 적이 체력을 대신 잃습니다."
+    "DESCRIPTION": "내 턴에 처음으로 HP을 잃으면, 적이 HP을 대신 잃습니다.",
+	"UPGRADE_DESCRIPTION": "선천성. NL 내 턴에 처음으로 HP을 잃으면, 적이 HP을 대신 잃습니다."
   },
   "Slimebound:WasteNot": {
     "NAME": "남기면 안돼",
@@ -273,7 +273,7 @@
   },
   "Slimebound:MassFeed": {
     "NAME": "대량 섭취",
-    "DESCRIPTION": "모든 적에게 피해를 !D! 줍니다. NL 이 공격으로 적이 죽으면 영구적으로 최대 체력이 !M! 증가합니다. NL 소멸."
+    "DESCRIPTION": "모든 적에게 피해를 !D! 줍니다. NL 이 공격으로 적이 죽으면 영구적으로 최대 HP이 !M! 증가합니다. NL 소멸."
   },
   "Slimebound:ViciousTackle": {
     "NAME": "난폭한 태클",
@@ -367,8 +367,8 @@
   },
   "Slimebound:MinionMaster": {
     "NAME": "졸개 대장",
-    "DESCRIPTION": "slimeboundmod:명령 을 내리면, slimeboundmod:명령 으 2 차례 발동합니다.",
-    "UPGRADE_DESCRIPTION": "선천성. NL slimeboundmod:명령 으 내리면, slimeboundmod:명령 으 2 차례 발동합니다."
+    "DESCRIPTION": "slimeboundmod:명령 을 내리면, slimeboundmod:명령 이 2 차례 발동합니다.",
+    "UPGRADE_DESCRIPTION": "선천성. NL slimeboundmod:명령 이 내리면, slimeboundmod:명령 이 2 차례 발동합니다."
   },
   "Slimebound:BestDefense": {
     "NAME": "무모함",

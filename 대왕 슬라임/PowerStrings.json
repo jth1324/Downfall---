@@ -16,7 +16,7 @@
   "Slimebound:PreventTackleDamagePower": {
     "NAME": "보호",
     "DESCRIPTIONS": [
-      "당신이 사용하는 #b #y태클카드로부터 ",
+      "당신이 사용하는 #b #y태클 카드로부터 ",
       " 피해를 받지 않습니다."
     ]
   },
@@ -64,7 +64,7 @@
   "Slimebound:HexSlimePerTurnPower": {
     "NAME": "육각의 힘",
     "DESCRIPTIONS": [
-      "다음턴 시작시 유령불꽃 슬라임을 생성합니다.",
+      "다음 턴 시작시 유령불꽃 슬라임을 생성합니다.",
       "다음 #b",
       " 턴 동안 시작시 유령불꽃 슬라임을 생성합니다."
     ]
@@ -72,9 +72,9 @@
   "Slimebound:ProtectTheBoss": {
     "NAME": "두목을 지켜라",
     "DESCRIPTIONS": [
-      "다음 번에 적의 공격으로 체력을 잃는 것을 막아줍니다, 대신 가장 오래된 슬라임을 잃습니다.",
+      "다음 번에 적의 공격으로 체력을 잃는 것을 막아줍니다, 대신 최근에 생성된 슬라임을 잃습니다.",
       "다음 #b",
-      " 번동안 적의 공격으로 체력을 잃는 것을 막아줍니다, 대신 가장 오래된 슬라임을 잃습니다."
+      " 번동안 적의 공격으로 체력을 잃는 것을 막아줍니다, 대신 최근에 생성된 슬라임을 잃습니다."
     ]
   },
   "Slimebound:SplitForLessPower": {
@@ -89,9 +89,9 @@
   "Slimebound:ComboAttackPower": {
     "NAME": "시범을 보여주지",
     "DESCRIPTIONS": [
-      "매턴 처음으로 적을 대상으로 카드를 사용하면 가장 오래된 슬라임도 공격합니다.",
+      "매턴 처음으로 적을 대상으로 카드를 사용하면 최근에 생성된 슬라임도 공격합니다.",
       "매턴 처음 #b",
-      " 회동안 적을 대상으로 카드를 사용하면 가장 오래된 슬라임도 공격합니다.",
+      " 회동안 적을 대상으로 카드를 사용하면 최근에 생성된 슬라임도 공격합니다.",
       " NL 이 효과가 이번 턴에 #b",
       " 번 발동 가능합니다.",
       " 번 발동 가능합니다.",
@@ -109,7 +109,7 @@
   "Slimebound:EnergizedSlimeboundPower": {
     "NAME": "원기왕성",
     "DESCRIPTIONS": [
-      "다음턴에 추가 #b",
+      "다음 턴에 추가 #b",
       " [E] 를 얻습니다.",
       " [E] 를 얻습니다.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
@@ -132,7 +132,7 @@
   "Slimebound:LoseSlimesPower": {
     "NAME": "과로",
     "DESCRIPTIONS": [
-      "다음턴에 모든 슬라임을 흡수합니다.",
+      "다음 턴에 모든 슬라임을 흡수합니다.",
       " #b 턴후, 모든 슬라임을 흡수합니다."
     ]
   },
@@ -176,8 +176,8 @@
   "Slimebound:DuplicatedFormNoHealPower": {
     "NAME": "분열",
     "DESCRIPTIONS": [
-      "최대 체력이 일시적으로 #b 감소합니다",
-      "."
+      "최대 체력이 일시적으로 #b",
+      " 감소합니다."
     ]
   },
   "Slimebound:DuplicatedFormEnergyPower": {
@@ -190,9 +190,9 @@
   "Slimebound:GluttonyPower": {
     "NAME": "폭식",
     "DESCRIPTIONS": [
-      "매턴 처음으로 점액이 적용된 상대를 공격하면 무작위 핥기 카드를 얻습니다.",
+      "매턴 처음으로 점액이 적용된 상대를 공격하면 핥기 카드를 얻습니다.",
       "매턴 처음 ",
-      " 번 점액이 적용된 상대를 공격하면 무작위 핥기 카드를 얻습니다.",
+      " 번 점액이 적용된 상대를 공격하면 핥기 카드를 얻습니다.",
       " NL 이 효과가 이번 턴에 #b",
       " 번 발동 가능합니다.",
       " 번 발동 가능합니다.",
@@ -203,8 +203,8 @@
     "NAME": "폭식+",
     "DESCRIPTIONS": [
       "매턴 #b",
-      " 무작위 강화된 핥기 카드를 손으로 가져옵니다.",
-      " 무작위 강화된 핥기 카드들을 손으로 가져옵니다."
+      " 강화된 핥기 카드를 손으로 가져옵니다.",
+      " 강화된 핥기 카드들을 손으로 가져옵니다."
     ]
   },
   "Slimebound:PoisonThornsPower": {
@@ -217,16 +217,16 @@
   "Slimebound:SlimeRitualPower": {
     "NAME": "의식",
     "DESCRIPTIONS": [
-      "매턴 시작에 #b",
+      "매턴 시작시 #b",
       " 힘을 얻습니다."
     ]
   },
   "Slimebound:RecyclingPower": {
     "NAME": "재활용",
     "DESCRIPTIONS": [
-      "다음턴의 시작에 무작위 비용이 0인 소멸된 카드를 얻습니다.",
+      "다음 턴의 시작시 무작위 비용이 0인 소멸된 카드를 얻습니다.",
       "다음 #b",
-      " 턴 동안, 턴의 시작에 무작위 비용이 0인 소멸된 카드를 얻습니다."
+      " 턴 동안, 턴의 시작시 무작위 비용이 0인 소멸된 카드를 얻습니다."
     ]
   },
   "Slimebound:RecyclingPowerUpgraded": {
@@ -267,25 +267,25 @@
   "Slimebound:PolyBeamAgainPower": {
     "NAME": "교차하는 광선",
     "DESCRIPTIONS": [
-      "다음 턴 시작에 다중 광선을 사용합니다. ",
+      "다음 턴 시작시 다중 광선을 사용합니다. ",
       "다음 #b",
-      " 턴 동안 턴 시작에 다중 광선을 사용합니다."
+      " 턴 동안 턴 시작시 다중 광선을 사용합니다."
     ]
   },
   "Slimebound:PolyBeamAgainPowerUpgraded": {
     "NAME": "교차하는 광선+",
     "DESCRIPTIONS": [
-      "다음 턴 시작에 다중 광선+을 사용합니다. ",
+      "다음 턴 시작시 다중 광선+을 사용합니다. ",
       "다음 #b",
-      " 턴 동안 턴 시작에 다중 광선+을 사용합니다."
+      " 턴 동안 턴 시작시 다중 광선+을 사용합니다."
     ]
   },
   "Slimebound:FirmFortitudePower": {
     "NAME": "꾿꾿히 견딤",
     "DESCRIPTIONS": [
-      "다음에 내턴에 체력을 잃으면, 적이 피해를 대신 받습니다.",
+      "다음에 내 차례에 체력을 잃으면, 적이 피해를 대신 받습니다.",
       "다음 #b",
-      " 번 내턴에 체력을 잃으면, 적이 피해를 대신 받습니다.",
+      " 번 내 차례에 체력을 잃으면, 적이 피해를 대신 받습니다.",
       " NL 이 효과가 이번턴에 ",
       " 번 발동 가능합니다.",
       " 번 발동 가능합니다.",
@@ -302,8 +302,8 @@
   "Slimebound:NextTurnGainSlimeCrush": {
     "NAME": "으깨기 준비",
     "DESCRIPTIONS": [
-      "다음턴에 슬라임 으깬다 를 얻습니다.",
-      "다음턴에 #b",
+      "다음 턴에 슬라임 으깬다 를 얻습니다.",
+      "다음 턴에 #b",
       " 슬라임 으깬다 를 얻습니다."
     ]
   },
@@ -366,7 +366,7 @@
   "Slimebound:AwakenedOnePower": {
     "NAME": "어둠의 의식",
     "DESCRIPTIONS": [
-      "이 적이 다음턴에 공격하지 않으면 ",
+      "이 적이 다음 턴에 공격하지 않으면 ",
       " 힘 을 얻습니다."
     ]
   },
