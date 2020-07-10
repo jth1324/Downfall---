@@ -1,290 +1,290 @@
 {
   "sneckomod:Strike": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage."
+    "NAME": "타격",
+    "DESCRIPTION": "피해 !D! 가합니다."
   },
   "sneckomod:Defend": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 !B! 얻습니다."
   },
   "sneckomod:SnekBite": {
-    "NAME": "Snek Bite",
-    "DESCRIPTION": "Deal !D! damage. NL sneckomod:Muddle the highest-cost card in your hand.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL sneckomod:Muddle the !M! highest-cost cards in your hand."
+    "NAME": "스네코 물기",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 손 안에 있는 가장 높은 비용의 카드 1 장 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "피해 !D! 가합니다. NL 손 안에 있는 가장 높은 비용의 카드 !M! 장 sneckomod:뒤엉키게 합니다."
   },
   "sneckomod:TailWhip": {
-    "NAME": "Tail Whip",
-    "DESCRIPTION": "Deal !D! damage. NL Apply 0 - !M! Weak. NL Apply 0 - !M! Vulnerable."
+    "NAME": "꼬리 채찍",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 약화 0 - !M! 부여합니다. NL 취약 0 - !M! 부여합니다"
   },
   "sneckomod:UnknownCommonAttack": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Common Attack Card."
+    "DESCRIPTION": "sneckomod:수수께끼 일반 공격 카드."
   },
   "sneckomod:UnknownCommonSkill": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Common Skill Card."
+    "DESCRIPTION": "sneckomod:수수께끼 일반 스킬 카드."
   },
   "sneckomod:UnknownUncommonAttack": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Uncommon Attack Card."
+    "DESCRIPTION": "sneckomod:수수께끼 특별 공격 카드."
   },
   "sneckomod:UnknownUncommonSkill": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Uncommon Skill Card."
+    "DESCRIPTION": "sneckomod:수수께끼 특별 스킬 카드."
   },
   "sneckomod:UnknownUncommonPower": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Uncommon Power Card."
+    "DESCRIPTION": "sneckomod:수수께끼 특별 파워 카드."
   },
   "sneckomod:UnknownRareAttack": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Rare Attack Card."
+    "DESCRIPTION": "sneckomod:수수께끼 희귀 공격 카드."
   },
   "sneckomod:UnknownRareSkill": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Rare Skill Card."
+    "DESCRIPTION": "sneckomod:수수께끼 희귀 스킬 카드."
   },
   "sneckomod:UnknownRarePower": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Rare Power Card."
+    "DESCRIPTION": "sneckomod:수수께끼 희퀴 파워 카드."
   },
   "sneckomod:SoulDraw": {
-    "NAME": "Soul Draw",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Draw 0 - !M! cards.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Draw 1 - !M! cards."
+    "NAME": "영혼의 드로우",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 카드 0 - !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 카드 1 - !M! 장 뽑습니다."
   },
   "sneckomod:SoulRoll": {
-    "NAME": "Soul Roll",
-    "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Muddle your hand.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Muddle your hand. NL Draw 1 card."
+    "NAME": "영혼의 도박",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 것들을 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 것들을 sneckomod:뒤엉키게 합니다. NL 카드 1 장 뽑습니다."
   },
   "sneckomod:PerplexingStare": {
-    "NAME": "Perplexing Stare",
-    "DESCRIPTION": "ALL enemies gain between -3 and !M! Strength."
+    "NAME": "당혹스러운 응시",
+    "DESCRIPTION": "모든 적들은 -3 에서 !M! 사이의 힘을 얻습니다."
   },
   "sneckomod:SnekBeam": {
-    "NAME": "Snek Beam",
-    "DESCRIPTION": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck.",
+    "NAME": "스네코 광선",
+    "DESCRIPTION": "모든 적에게 덱에 있는 수수께끼 카드의 숫자만큼 피해를 가합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "모든 적에게 덱에 있는 수수께끼 카드의 숫자만큼 피해를 가합니다.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
+      " NL (피해 !D! 가합니다.)"
     ]
   },
   "sneckomod:UnknownStrike": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Strike Card."
+    "DESCRIPTION": "sneckomod:수수께끼 타격 카드."
   },
   "sneckomod:Nope": {
-    "NAME": "Nope",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Exhaust a card in your hand. NL Replace it with a random card of the same type that costs 1 less. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Exhaust a card in your hand. NL Replace it with a random card of the same type that costs 1 less.",
+    "NAME": "안돼",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 카드 1 장 소멸시킵니다. NL 비용이 1 적은 같은 종류의 무작위 카드 1 장으로 대체합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 카드 1 장 소멸시킵니다. NL 비용이 1 적은 같은 종류의 무작위 카드 1 장으로 대체합니다.",
     "EXTENDED_DESCRIPTION": [
-      " to Exhaust for Nope."
+      " 안돼를 위해 소멸."
     ]
   },
   "sneckomod:UnknownClass": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown YouShouldNeverSeeThis-ReportToDev Card."
+    "DESCRIPTION": "sneckomod:수수께끼 YouShouldNeverSeeThis-ReportToDev Card."
   },
   "sneckomod:UnknownInnate": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Innate Card."
+    "DESCRIPTION": "sneckomod:수수께끼 선청성 카드."
   },
   "sneckomod:Unknown": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Card."
+    "DESCRIPTION": "sneckomod:수수께끼 카드."
   },
   "sneckomod:Unknown0Cost": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown 0 Cost Card."
+    "DESCRIPTION": "sneckomod:수수께끼 0 비용 카드."
   },
   "sneckomod:Unknown1Cost": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown 1 Cost Card."
+    "DESCRIPTION": "sneckomod:수수께끼 1 비용 카드."
   },
   "sneckomod:Unknown2Cost": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown 2 Cost Card."
+    "DESCRIPTION": "sneckomod:수수께끼 2 비용 카드."
   },
   "sneckomod:Unknown3Cost": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown 3 Cost Card."
+    "DESCRIPTION": "sneckomod:수수께끼 3 비용 카드."
   },
   "sneckomod:UnknownX": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown X Cost Card."
+    "DESCRIPTION": "sneckomod:수수께끼 X 비용 카드."
   },
   "sneckomod:UnknownEthereal": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Ethereal Card."
+    "DESCRIPTION": "sneckomod:수수께끼 휘발성 카드."
   },
   "sneckomod:UnknownBlock": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Block Card."
+    "DESCRIPTION": "sneckomod:수수께끼 방어 카드."
   },
   "sneckomod:UnknownExhaust": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Exhaust Card."
+    "DESCRIPTION": "sneckomod:수수께끼 소멸 카드."
   },
   "sneckomod:SoulCleanse": {
-    "NAME": "Soul Cleanse",
-    "DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL sneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3."
+    "NAME": "영혼 정화",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 것들을 sneckomod:뒤엉키게 합니다. sneckomod:뒤엉킴 카드들이 비용 3 카드가 되지 않습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 것들을 sneckomod:뒤엉키게 합니다. sneckomod:뒤엉킴 카드들이 비용 3 카드가 되지 않습니다."
   },
   "sneckomod:SoulExchange": {
-    "NAME": "Soul Exchange",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Draw 1 card, then Exhaust 1 card. NL Exhaust your hand, replacing them with random cards of the Exhausted card's class.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Draw 2 cards, then Exhaust 1 card. NL Exhaust your hand, replacing them with random cards of the Exhausted card's class.",
+    "NAME": "영혼 교환",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 카드 1 장 뽑은 후 1 장 소멸시킵니다. NL 소멸한 카드의 직업 중 무작위 카드를 손 안에 대체합니다.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 카드 2 장 뽑은 후 1 장 소멸시킵니다. NL 소멸한 카드의 직업 중 무작위 카드를 손 안에 대체합니다.",
     "EXTENDED_DESCRIPTION": [
-      "to Exhaust for Soul Exchange."
+      "영혼 교환을 위해 소멸. "
     ]
   },
   "sneckomod:CheapStock": {
-    "NAME": "Cheap Stock",
-    "DESCRIPTION": "At the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1."
+    "NAME": "값싼 재고품",
+    "DESCRIPTION": "턴 시작시, 손 안에 있는 가장 높은 비용의 sneckomod:다른캐릭터 카드 비용을 1 감소시킵니다.",
+    "UPGRADE_DESCRIPTION": "선청성. NL 턴 시작시, 손 안에 있는 가장 높은 비용의 sneckomod:다른캐릭터 카드 비용을 1 감소시킵니다."
   },
   "sneckomod:UnlimitedRolls": {
-    "NAME": "Unlimited Rolls",
-    "DESCRIPTION": "At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust."
+    "NAME": "무제한 도박",
+    "DESCRIPTION": "턴 시작시, 손 안에 영혼의 도박을 추가합니다. 추가된 영혼의 도박은 휘발성과 소멸을 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선청성. NL 턴 시작시, 손 안에 영혼의 도박을 추가합니다. 추가된 영혼의 도박은 휘발성과 소멸을 얻습니다."
   },
   "sneckomod:MasterEye": {
-    "NAME": "Master Eye",
-    "DESCRIPTION": "Become Confused. NL Draw !M! additional card each turn.",
-    "UPGRADE_DESCRIPTION": "Become Confused. NL Draw !M! additional cards each turn."
+    "NAME": "달인의 눈",
+    "DESCRIPTION": "혼란 상태에 빠집니다. NL 매턴마다 추가 카드 !M! 장 뽑습니다.",
+    "UPGRADE_DESCRIPTION": "혼란 상태에 빠집니다. NL 매턴마다 추가 카드 !M! 장 뽑습니다."
   },
   "sneckomod:ImprovisedAttack": {
-    "NAME": "Improvised Attack",
-    "DESCRIPTION": "Deal !D! damage. NL Add a random sneckomod:Offclass Attack into your hand and sneckomod:Muddle it."
+    "NAME": "변덕스러운 공격",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 손 안에 무작위 sneckomod:다른캐릭터 공격 카드를 추하고 그 카드를 sneckomod:뒤엉키게 합니다."
   },
   "sneckomod:ImprovisedGuard": {
-    "NAME": "Improvised Guard",
-    "DESCRIPTION": "Gain !B! Block. NL Add a random sneckomod:Offclass Skill into your hand and sneckomod:Muddle it."
+    "NAME": "변덕스러운 방어",
+    "DESCRIPTION": "방어도 !B! 얻습니다. NL 손 안에 무작위 sneckomod:다른캐릭터 스킬 카드를 추하고 그 카드를 sneckomod:뒤엉키게 합니다"
   },
   "sneckomod:QuickMove": {
-    "NAME": "Quick Move",
-    "DESCRIPTION": "Gain !B! Block. NL sneckomod:Muddle the highest-cost card in your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL sneckomod:Muddle the !M! highest-cost cards in your hand."
+    "NAME": "날랜 움직임",
+    "DESCRIPTION": "방어도 !B! 얻습니다. NL 손 안에 있는 가장 높은 비용의 카드 1 장 sneckomod:뒤엉키게 합니다.",
+    "UPGRADE_DESCRIPTION": "방어도 !B! 얻습니다. NL 손 안에 있는 가장 높은 비용의 카드 !M! 장 sneckomod:뒤엉키게 합니다."
   },
   "sneckomod:QuickBite": {
-    "NAME": "Snake Rake",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! - 2 cards. NL sneckomod:Muddle the highest-cost card in your hand."
+    "NAME": "뱀 갈퀴",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 카드 !M! - 2 장 뽑습니다. NL 손 안에 있는 가장 높은 비용의 카드 1 장 sneckomod:뒤엉키게 합니다."
   },
   "sneckomod:Rotation": {
-    "NAME": "Rotation",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Discard all sneckomod:Offclass cards. NL Draw that many cards plus !M!."
+    "NAME": "순환",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 모든 sneckomod:다른캐릭터 카드를 버립니다. NL 버린 카드 더하기 !M! 장 뽑습니다."
   },
   "sneckomod:SerpentMind": {
-    "NAME": "Exotic Form",
-    "DESCRIPTION": "Whenever you play a sneckomod:Offclass card, draw 1 card."
+    "NAME": "외세의 형상",
+    "DESCRIPTION": "sneckomod:다른캐릭터 카드를 사용할 때마다, 카드 1 장 뽑습니다."
   },
   "sneckomod:SlitherStrike": {
-    "NAME": "Slither Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Reduce the cost of sneckomod:Offclass cards in your hand by 1 this turn."
+    "NAME": "미끄럼 타격",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 이번 턴동안, 손 안에 있는 sneckomod:다른캐릭터 카드의 비용을 1 감소합니다."
   },
   "sneckomod:PureSnecko": {
-    "NAME": "Shift",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Exhaust all sneckomod:Offclass cards in your hand, replacing them with new ones.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Exhaust all sneckomod:Offclass cards in your hand, replacing them with new ones that cost 1 less."
+    "NAME": "변화무쌍",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 모든 sneckomod:다른캐릭터 카드를 소멸시키고, 새로운 것들로 대체합니다.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 모든 sneckomod:다른캐릭터 카드를 소멸시키고, 새로운 것들로 대체합니다. 비용이 1 감소합니다."
   },
   "sneckomod:Cheat": {
-    "NAME": "Cheat",
-    "DESCRIPTION": "sneckomod:Snekproof. NL This turn, cards that choose a random number for their effect choose the maximum possible number. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL This turn, cards that choose a random number for their effect choose the maximum possible number."
+    "NAME": "치트",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 이번 턴, 효과에 무작위 숫자 효과가 있는 카드 1 장 선택하여 최대 효과를 발휘하게 합니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 이번 턴, 효과에 무작위 숫자 효과가 있는 카드 1 장 선택하여 최대 효과를 발휘하게 합니다."
   },
   "sneckomod:Restock": {
-    "NAME": "Restock",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Discard your hand. NL Draw 5-10 cards."
+    "NAME": "재보급",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 손 안에 있는 카드를 버립니다. NL 카드 5-10 장 뽑습니다."
   },
   "sneckomod:GlitteringGambit": {
-    "NAME": "Glittering Gambit",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Set your *Gold to !M! % - 120 % of its current amount. NL Exhaust."
+    "NAME": "반짝이는 도박수",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 현재 가진 *골드 를 !M! % - 120 % 로 설정합니다. NL 소멸."
   },
   "sneckomod:Transmogrify": {
-    "NAME": "Transmogrify",
-    "DESCRIPTION": "Lose a random Relic. NL Choose to gain it back, or obtain a random Relic at the same rarity at the end of combat. NL Exhaust."
+    "NAME": "탈바꿈",
+    "DESCRIPTION": "무작위 유물을 잃습니다. NL 이 전투가 끝난 후, 그 유물을 돌려받기를 선택하거나 혹은 같은 등급의 무작위 유물을 선택합니다. NL 소멸."
   },
   "sneckomod:DefensiveFlair": {
-    "NAME": "Defensive Flair",
-    "DESCRIPTION": "Gain !B! Block, increased by !M! for each sneckomod:Offclass card in your hand."
+    "NAME": "수비 솜씨",
+    "DESCRIPTION": "방어도 !B! 얻습니다. 손 안에 있는 sneckomod:다른캐릭터 카드마다 !M! 증가합니다."
   },
   "sneckomod:DangerNoodle": {
-    "NAME": "Danger Noodle",
-    "DESCRIPTION": "Deal !D! damage. NL Repeat this for each sneckomod:Offclass card in your hand, then Exhaust those cards."
+    "NAME": "위험한 머리",
+    "DESCRIPTION": "피해 !D! 가합니다. NL 손 안에 있는 sneckomod:다른캐릭터 카드마다 반복한 후, 그 카드들을 소멸시킵니다."
   },
   "sneckomod:SerpentIdol": {
-    "NAME": "Serpent Idol",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Choose 1 of 3 random sneckomod:Offclass cards to add into your hand. NL It costs 0 this turn. NL Exhaust."
+    "NAME": "구렁이 우상",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 3 개의 무작위 sneckomod:다른캐릭터 카드 중 하나를 선택합니다. NL 이번 턴 비용이 0 입니다. NL 소멸."
   },
   "sneckomod:TrashToTreasure": {
-    "NAME": "Trash to Treasure",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Exhaust a card. NL Gain [E] equal to its cost. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "sneckomod:Snekproof. NL Exhaust a card. NL Gain [E] equal to its cost."
+    "NAME": "쓰레기 재활용",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 카드 1 장 소멸시킵니다. NL 카드의 비용과 동일한 [E] 얻습니다. NL 소멸.",
+    "UPGRADE_DESCRIPTION": "sneckomod:스네코항체. NL 카드 1 장 소멸시킵니다. NL 카드의 비용과 동일한 [E] 얻습니다."
   },
   "sneckomod:DiceBlock": {
-    "NAME": "Dice Block",
-    "DESCRIPTION": "Gain !M! - !B! Block. NL Maximum Block is increased by 1 for each sneckomod:Unknown card you started combat with."
+    "NAME": "주사위 막기",
+    "DESCRIPTION": "방어도 !M! - !B! 얻습니다. NL 전투 시작시 존재하는 sneckomod:수수께끼 카드마다 최대 방어도 1 증가합니다."
   },
   "sneckomod:MixItUp": {
-    "NAME": "Mix It Up!",
-    "DESCRIPTION": "Deal !D! damage for each of your Potions. NL Lose your Potions and replace them with new ones. NL Exhaust."
+    "NAME": "흔들어 젓지말고!",
+    "DESCRIPTION": "당신의 포션마다 피해 !D! 가합니다. NL 포션 하나를 잃고 무작위 포션으로 대체됩니다. NL 소멸."
   },
   "sneckomod:MorePower": {
-    "NAME": "More Power!",
-    "DESCRIPTION": "Obtain an additional Upgraded sneckomod:Unknown card reward at the end of combat."
+    "NAME": "더 많은 힘!",
+    "DESCRIPTION": "매전투가 끝날 때마다 보상으로 강화된 sneckomod:수수께끼 카드를 추가로 얻습니다."
   },
   "sneckomod:UnknownStrength": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Strength Card."
+    "DESCRIPTION": "sneckomod:수수께끼 힘 카드."
   },
   "sneckomod:UnknownDexterity": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Dexterity Card."
+    "DESCRIPTION": "sneckomod:수수께끼 민첩 카드."
   },
   "sneckomod:UnknownWeak": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Weak Card."
+    "DESCRIPTION": "sneckomod:수수께끼 약화 카드."
   },
   "sneckomod:UnknownVulnerable": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Vulnerable Card."
+    "DESCRIPTION": "sneckomod:수수께끼 취약 카드."
   },
   "sneckomod:UnknownColorless": {
     "NAME": "???",
-    "DESCRIPTION": "sneckomod:Unknown Colorless Card."
+    "DESCRIPTION": "sneckomod:수수께끼 무색 카드."
   },
   "sneckomod:RainOfDice": {
-    "NAME": "Rain of Dice",
-    "DESCRIPTION": "Deal !qqq! - !D! damage to a random enemy 2 - !M! times. NL sneckomod:Muddle the next 2 - !M! cards you draw."
+    "NAME": "주사위 비",
+    "DESCRIPTION": "무작위 적에게 피해 !qqq! - !D! 를 2 - !M! 번 가합니다. NL 다음 당신이 뽑을 카드 2 - !M! 장 sneckomod:뒤엉키게 됩니다."
   },
   "sneckomod:DiceCrush": {
-    "NAME": "Dice Crush",
-    "DESCRIPTION": "Deal !M! - !D! damage. NL Maximum damage is increased by 1 for each sneckomod:Unknown card you started combat with."
+    "NAME": "주사위 으깨기",
+    "DESCRIPTION": "피해 !M! - !D! 가합니다. NL 전투 시작시 존재하는 sneckomod:수수께끼 카드마다 최대 피해 1 증가합니다."
   },
   "sneckomod:SnakeSap": {
-    "NAME": "Snake Sap",
-    "DESCRIPTION": "sneckomod:Snekproof. NL Deal !qqq! - !D! damage. NL Gain 0 - !M! [E] ."
+    "NAME": "뱀 수액",
+    "DESCRIPTION": "sneckomod:스네코항체. NL 피해 !qqq! - !D! 가합니다. NL 0 - !M! [E] 얻습니다."
   },
   "sneckomod:DiceBoulder": {
-    "NAME": "Dice Boulder",
-    "DESCRIPTION": "Deal !M! - !D! damage. NL Can be Upgraded any number of times."
+    "NAME": "주사위 바위",
+    "DESCRIPTION": "피해 !M! - !D! 가합니다. NL 몇 번이든 강화할 수 있습니다."
   },
   "sneckomod:IronFang": {
-    "NAME": "Iron Fang",
-    "DESCRIPTION": "Deal !qqq! - !D! damage. NL Gain !M! - !B! Block."
+    "NAME": "강철 송곳니",
+    "DESCRIPTION": "피해 !qqq! - !D! 가합니다. NL 방어도 !M! - !B! 얻습니다."
   },
   "sneckomod:Mudshield": {
-    "NAME": "Mud Shield",
-    "DESCRIPTION": "Whenever you sneckomod:Muddle a card, gain 1 Block next turn.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you sneckomod:Muddle a card, gain 1 Block next turn."
+    "NAME": "진흙 방패",
+    "DESCRIPTION": "카드 1 장 sneckomod:뒤엉키게 할 때마다, 다음 턴에 방어도 1 얻습니다.",
+    "UPGRADE_DESCRIPTION": "선청성. NL 카드 1 장 sneckomod:뒤엉키게 할 때마다, 다음 턴에 방어도 1 얻습니다."
   },
   "sneckomod:WideSting": {
-    "NAME": "Wide Sting",
-    "DESCRIPTION": "Deal !M! - !D! damage to ALL enemies. NL Upgrade all sneckomod:Offclass cards in your hand."
+    "NAME": "광역 찌르기",
+    "DESCRIPTION": "모든 적에게 피해 !M! - !D! 가합니다. NL 손 안에 있는 모든l sneckomod:다른캐릭터 카드들을 강화합니다."
   },
   "sneckomod:Bewildered": {
-    "NAME": "Bewildered",
-    "DESCRIPTION": "When you play another card, sneckomod:Muddle your hand, then discard this. NL Exhaust."
+    "NAME": "어리둥절",
+    "DESCRIPTION": "다른 카드를 사용한다면 손 안에 있는 것들을 sneckomod:뒤엉키게 한 후, 이 카드를 버립니다. NL 소멸."
   }
 }

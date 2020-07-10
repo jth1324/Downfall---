@@ -1,31 +1,31 @@
 {
   "sneckomod:DiceRollPotion": {
-    "NAME": "Potentially Potent Potion",
+    "NAME": "잠재적인 독약",
     "DESCRIPTIONS": [
-      "Deal #b",
+      "피해 #b",
       "-",
-      " damage."
+      " 가합니다."
     ]
   },
   "sneckomod:CheatPotion": {
-    "NAME": "Liquid Luck",
+    "NAME": "행운 영약",
     "DESCRIPTIONS": [
-      "This turn, cards that choose a random number for their effect choose the maximum possible number.",
-      "For 2 turns, cards that choose a random number for their effect choose the maximum possible number."
+      "이번 턴, 효과에 무작위 숫자 효과가 있는 카드 한 장 선택하여 최대 효과를 발휘하게 합니다.",
+      "2 턴 동안, 효과에 무작위 숫자 효과가 있는 카드 한 장 선택하여 최대 효과를 발휘하게 합니다."
     ]
   },
   "sneckomod:MuddlingPotion": {
-    "NAME": "Spiked Energy Drink",
+    "NAME": "도마뱀 담금주",
     "DESCRIPTIONS": [
-      "#yMuddle the #b",
-      " highest-cost cards in your hand."
+      "손 안에 있는 가장 높은 비용의 카드 #b",
+      " 장 #y뒤엉키게 합니다."
     ]
   },
   "sneckomod:OffclassReductionPotion": {
-    "NAME": "Exotic Beverage",
+    "NAME": "이색적인 음료",
     "DESCRIPTIONS": [
-      "Reduce the cost of #yOffclass cards in your hand by #b",
-      "."
+      "손 안에 있는 #y다른 #y캐릭터 카드의 비용을 #b",
+      " 감소시킵니다."
     ]
   }
 }

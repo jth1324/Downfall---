@@ -1,104 +1,104 @@
 {
   "sneckomod:SneckoSoul": {
-    "NAME": "Snecko Soul",
+    "NAME": "스네코 영혼",
     "FLAVOR": "0...3...2...2...1",
     "DESCRIPTIONS": [
-      "Whenever you add a #ysneckomod:Unknown card into your deck, increase your Max HP by #b1."
+      "덱에 #ysneckomod:수수께끼 카드 하나 추가할 때마다, 최대 HP #b1 증가시킵니다."
     ]
   },
   "sneckomod:SuperSneckoSoul": {
-    "NAME": "Super Snecko Soul",
+    "NAME": "슈퍼 스네코 영혼",
     "FLAVOR": "3120231321230320",
     "DESCRIPTIONS": [
-      "Replaces ",
-      ".[] NL Upon pickup, increase your Max HP by #b2 for each #ysneckomod:Unknown card in your deck."
+      " ",
+      " 대체합니다.[] NL 획득시, 덱에 있는 #ysneckomod:수수께끼 카드마다 최대 HP #b2 증가시킵니다."
     ]
   },
   "sneckomod:CleanMud": {
-    "NAME": "Snake-Charmer's Flute",
-    "FLAVOR": "You're an oxy-moron!",
+    "NAME": "뱀 피리",
+    "FLAVOR": "넌 아주 모순되어 있다고!",
     "DESCRIPTIONS": [
-      "#ysneckomod:Muddled cards can't cost #b3."
+      "#ysneckomod:뒤엉킴 카드들이 비용 #b3 이 되지 않습니다."
     ]
   },
   "sneckomod:ConfusingCodex": {
-    "NAME": "Ring of the Snek",
-    "FLAVOR": "Illegible, unreadable, due by Thursday.",
+    "NAME": "스네코 반지",
+    "FLAVOR": "해석하기 어렵고, 읽기도 힘들고, 목요일까지 제출해야 하다니.",
     "DESCRIPTIONS": [
-      "At the start of combat, apply #b0-2 #yWeak and #yVulnerable to ALL enemies."
+      "전투 시작시, 모든 적에게 #b0-2 #y약화 및 #y취약 부여합니다."
     ]
   },
   "sneckomod:CrystallizedMud": {
-    "NAME": "Mesmerising Pendant",
-    "FLAVOR": "Dazzling dirt.",
+    "NAME": "유혹의 팬던트",
+    "FLAVOR": "뭔가 시선이 끌리는군요.",
     "DESCRIPTIONS": [
-      "Gain [E] at the start of your turn. #ysneckomod:Muddled cards can't cost #b0."
+      "매턴 시작시 [E] 얻습니다. #ysneckomod:뒤엉킴 카드들의 비용이 #b0 이 되지 않습니다."
     ]
   },
   "sneckomod:LoadedDie": {
-    "NAME": "Loaded Die",
-    "FLAVOR": "Cheese-stuffed.",
+    "NAME": "사기꾼 주사위",
+    "FLAVOR": "흑우를 속이기 딱 좋죠.",
     "DESCRIPTIONS": [
-      "Cards that choose random numbers have +1 minimum."
+      "무작위 숫자 효과가 있는 카드의 최소치를 1 증가시킵니다."
     ]
   },
   "sneckomod:RareBoosterPack": {
-    "NAME": "Rare Booster Box",
-    "FLAVOR": "Mint condition.",
+    "NAME": "레어 부스터 박스",
+    "FLAVOR": "완전 새거나 다름없다고.",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain a #ysneckomod:Unknown #yRare card of each card type."
+      "획득시, 종류별로 #ysneckomod:수수께끼 #y희귀 카드 한 장 얻습니다."
     ]
   },
   "sneckomod:SleevedAce": {
-    "NAME": "Sleeved Ace",
-    "FLAVOR": "We're all aces.",
+    "NAME": "사기도박용 카드",
+    "FLAVOR": "우리 모두 에이스 카드지.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a #yCheat into your hand with #yRetain."
+      "매전투 시작시, 손에 #y보존 속성이 있는 #y치트 카드 한 장 추가합니다."
     ]
   },
   "sneckomod:UnknownEgg": {
-    "NAME": "Unknown Egg",
-    "FLAVOR": "What will hatch? Pay $1000 to see.",
+    "NAME": "수수께끼 알",
+    "FLAVOR": "뭐가 부화하냐고? 1000골드 내면 보여줄께.",
     "DESCRIPTIONS": [
-      "#ysneckomod:Unknown cards in card rewards are #yUpgraded."
+      "보상으로 얻는 #ysneckomod:수수께끼 카드들이 #y강화 됩니다.."
     ]
   },
   "sneckomod:SuperSneckoEye": {
-    "NAME": "Super Snecko Eye",
+    "NAME": "슈퍼 스네코 눈",
     "FLAVOR": "0121012",
     "DESCRIPTIONS": [
-      "Replaces Snecko Eye. At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. The first time you draw a card that costs #b3 each combat, reduce its cost to #b0."
+      "스네코 눈을 대체합니다. 매턴마다, 카드 #b2 장 추가로 뽑습니다. 전투시 #y혼란 상태로 시작합니다. 매전투마다 처음으로 뽑는 #b3 코스트 카드의 비용을 #b0 으로 감소시킵니다."
     ]
   },
   "sneckomod:SneckoTalon": {
-    "NAME": "Idol of Retromation",
-    "FLAVOR": "Often called the Idol of Reto for short.",
+    "NAME": "레트로메이션의 우상",
+    "FLAVOR": "흔히 줄여서 레토의 우상이라고 부르죠.",
     "DESCRIPTIONS": [
-      "At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn."
+      "매턴 시작시, 손 안에 있는 비용이 가장 높은 카드의 비용을 이번 턴에만 #b1 감소시킵니다.."
     ]
   },
   "sneckomod:BlankCard": {
-    "NAME": "Blank Card",
-    "FLAVOR": "Card Mimic.",
+    "NAME": "그림없는 카드",
+    "FLAVOR": "카드 복사하기.",
     "DESCRIPTIONS": [
-      "At the start of each combat, play a random card from your deck."
+      "매전투 시작시, 덱에 있는 무작위 카드를 사용합니다."
     ]
   },
   "sneckomod:D8": {
-    "NAME": "Mystical Octahedron",
-    "FLAVOR": "It appears weighted toward one side.",
+    "NAME": "신비한 8면체",
+    "FLAVOR": "한쪽으로 좀 치우쳐져 있군요.",
     "DESCRIPTIONS": [
-      "Upon pickup, choose a card that selects a random number for its effects. This card always selects its maximum possible number.",
-      "Choose a card for ",
-      "Whenever ",
-      " is played, it chooses its maximum possible number for its effect."
+      "획득시, 무작위 숫자 효과를 받는 카드 한 장 선택합니다. 그 카드는 항상 최대 효과를 냅니다.",
+      "카드 한 장 선택 ",
+      " ",
+      " 사용시, 최대 효과를 발휘합니다."
     ]
   },
   "sneckomod:BabySnecko": {
-    "NAME": "Young Snecko",
-    "FLAVOR": "Bewilderingly adorable.",
+    "NAME": "어린 스네코",
+    "FLAVOR": "어리둥절할 정도로 사랑스럽군요.",
     "DESCRIPTIONS": [
-      "Deals 5 damage to a random enemy at the start of your turn."
+      "매턴 시작시 무작위 적에게 피해 5 가합니다."
     ]
   }
 }
